@@ -1,0 +1,39 @@
+{
+  "title": "Você seria um heroi ou vilão?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual super poder Você escolheria ?",
+      "options": [
+        { "id": 1, "name": "⚡ Raios-Lasers", "alias": "A" },
+        { "id": 2, "name": "✈️ Voar", "alias": "B" },
+        { "id": 3, "name": "💥 Explodir coisas", "alias": "A" },
+        { "id": 4, "name": "❤️‍🩹 Curar feridas", "alias": "B" },
+        { "id": 5, "name": "🔥 Soltar fogo pelas mãos", "alias": "A" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quem você salvaria primeiro ?",
+      "options": [
+        { "id": 1, "name": "🧒🏽👧🏽 Crianças", "alias": "A" },
+        { "id": 2, "name": "👴🏽👵🏽 Idosos", "alias": "A" },
+        { "id": 3, "name": "Não saberia escolher", "alias": "B" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual a sua maior preocupação ao enfrentar outro super ser ?",
+      "options": [
+        { "id": 1, "name": "🏢 Não destruir prédios", "alias": "B" },
+        { "id": 2, "name": "🤕 Socar a cara do inimigo", "alias": "A" },
+        { "id": 3, "name": "💩 Não sujar meu traje", "alias": "B" },
+        { "id": 4, "name": "🤖 Não deixar ninguém se ferir", "alias": "A" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "💖 Você é um heroi! Você é uma pessoa que gosta de ajudar os outros, e não tem medo de se arriscar para salvar alguém.",
+    "B": "🖤 Você é um vilão! Você é uma pessoa que gosta de fazer o mal, e não tem medo de se arriscar para prejudicar alguém."
+  }
+}
